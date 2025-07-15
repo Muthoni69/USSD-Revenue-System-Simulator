@@ -46,7 +46,7 @@ USSD is **session-based**, meaning it keeps track of a user's interaction in rea
 
 ## 🎥 Demo: USSD Simulator in Action
 
-This short demo showcases how the mock Kisumu *427# USSD flow works in real time using the [Africa's Talking USSD Simulator](https://account.africastalking.com). 
+This short demo showcases how the mock USSD flow works in real time using the [Africa's Talking USSD Simulator](https://account.africastalking.com). 
 
 ---
 
