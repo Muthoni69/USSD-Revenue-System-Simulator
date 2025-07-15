@@ -42,3 +42,33 @@ USSD is **session-based**, meaning it keeps track of a user's interaction in rea
 - **Input Parsing:** Africa’s Talking sends `text` like `1*2*ABC123`. The app extracts the **latest input** using:
   ```python
   user_input = text.split("*")[-1]
+
+
+## 🎥 Demo: USSD Simulator in Action
+
+This short demo showcases how the mock Kisumu *427# USSD flow works in real time using the [Africa's Talking USSD Simulator](https://account.africastalking.com). 
+
+---
+
+### 📸 Screenshot
+https://github.com/Muthoni69/USSD-Revenue-System-Simulator/blob/main/USSD.png
+
+---
+
+### 📽️ Watch Demo Video
+
+> 🔗 [Click here to watch the video demo](https://github.com/Muthoni69/USSD-Revenue-System-Simulator/blob/main/USSD.mp4)
+
+---
+
+
+
+
+
+
+
+
+
+
+
+
