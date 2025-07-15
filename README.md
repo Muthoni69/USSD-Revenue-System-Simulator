@@ -57,7 +57,7 @@ https://github.com/Muthoni69/USSD-Revenue-System-Simulator/blob/main/USSD.png
 
 ### 📽️ Watch Demo Video
 
-> 🔗 [Click here to watch the video demo](https://github.com/Muthoni69/USSD-Revenue-System-Simulator/blob/main/USSD.mp4)
+> 🔗 [Click here to watch the video demo](https://www.loom.com/share/0d897f98def846b685bdd612ea47fa01?sid=e2b9b6ea-26b8-49ac-877a-ac248c6ed60e)
 
 ---
 
