@@ -9,7 +9,7 @@ This repository contains a mock USSD (Unstructured Supplementary Service Data) a
 - **Mock USSD Application:** Python Flask backend that simulates USSD menu navigation and input collection.
 - **Session-Based Flow:** Maintains user state across multiple USSD requests using an in-memory dictionary.
 - **Parking Services Flow:**
-  - Users can select parking zones (e.g., WOTE, KITISE)
+  - Users can select parking zones
   - Collects and validates vehicle plate numbers
   - Simulates payment confirmation (M-Pesa placeholder)
 - **Navigation:**
